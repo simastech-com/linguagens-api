@@ -1,6 +1,6 @@
 ## Alura-Stickers
 
-Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/2023 e 31/03/2023.
+Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/2023 e 31/03/2023. Trata-se de uma API para fornecer logotipos de linguagens de programação para serem usadas pelo projeto alura-sticker: https://github.com/simastech-com/alura-stickers
 
 <ul>
     <li>
@@ -24,7 +24,7 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                 </ul>
             </li>
 			<li>
-				<b>Resultados:</b> Listados no projeto alura-stickers:https://github.com/simastech-com/alura-stickers 
+				<b>Resultados:</b> Listados no projeto alura-stickers: https://github.com/simastech-com/alura-stickers 
             </li>
         </ul>
     </li>
