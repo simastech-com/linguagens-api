@@ -9,7 +9,7 @@ Este projeto foi iniciado na aula 4. Até a aula 3, somente foi trabalhado o pro
         <h3>Aula 04 | 30/03/2023 | Criando nossa própria API com Spring.</h3>
         <ul>
             <li>
-                <b>Objetivo:</b> Criar uma API própria para fornecer as imagens das figurinhas com MongoDB.
+                <b>Objetivo:</b> Criar uma API própria para fornecer as imagens das figurinhas com Spring Boot e MongoDB.
             </li>
 			<li>
             <b>Desafios:</b>
