@@ -1,6 +1,8 @@
-## Alura-Stickers
+## Linguagens-API
 
 Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/2023 e 31/03/2023. Trata-se de uma API para fornecer logotipos de linguagens de programação para serem usadas pelo projeto alura-stickers: https://github.com/simastech-com/alura-stickers
+
+Este projeto foi iniciado na aula 4. Até a aula 3, somente foi trabalhado o projeto alura-stickers.
 
 <ul>
     <li>
@@ -30,5 +32,13 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
     </li>
     <li>
         <h3>Aula 05 | 31/03/2023 | Publicando nossa API no Cloud.</h3>
+        <ul>
+            <li>
+                <b>Objetivo:</b> Nesta aula a API foi enviada para o Fly.io. 
+            </li>
+			<li>
+				<b>Resultados:</b> API disponível no link: https://alura-linguagens-simaswilliam2.fly.dev/linguagens
+            </li>
+        </ul>
     </li>
 </ul>

@@ -27,6 +27,7 @@ public class LinguagemController
         return linguagens;
     }
 
+    //Removido antes de enviar para o Fly.io
     @PostMapping(value="/linguagens")
     public ResponseEntity<Linguagem> cadastrarLinguagem(@RequestBody Linguagem linguagem)
     {
@@ -40,6 +41,7 @@ public class LinguagemController
         return repositorio.findById(id).orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND));
     }
 
+    //Removido antes de enviar para o Fly.io
     @PutMapping(value="/linguagens/{id}")
     public Linguagem atualizarLinguagem(@PathVariable String id,@RequestBody Linguagem linguagem)
     {
@@ -53,6 +55,7 @@ public class LinguagemController
         return linguagemSalva;
     }
 
+    //Removido antes de enviar para o Fly.io
     @DeleteMapping(value="linguagens/{id}")
     public void excluirLinguagem(@PathVariable String id)
     {
